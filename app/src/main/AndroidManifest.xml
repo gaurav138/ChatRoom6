@@ -27,7 +27,7 @@
         <activity
             android:name=".FacultyMain5"
             android:label="@string/title_activity_faculty_main5"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
 
         <service android:name=".FcmInstanceIdService">
             <intent-filter>
@@ -40,6 +40,7 @@
             </intent-filter>
         </service>
 
+        <activity android:name=".MyTry"></activity>
     </application>
 
 </manifest>
