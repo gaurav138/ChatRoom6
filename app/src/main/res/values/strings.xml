@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ChatRoom</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="FCM_PREF">com.example.w10.chatroom.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.w10.chatroom.fcm_token</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_faculty_main2">FacultyMain2</string>
+    <array name="years">
+        <item>first year</item>
+        <item>second year</item>
+        <item>third year</item>
+        <item>fourth year</item>
+    </array>
+    <string name="title_activity_faculty_main4">FacultyMain4</string>
+    <string name="title_activity_faculty_main5">FacultyMain5</string>
+</resources>
